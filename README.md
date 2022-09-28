@@ -36,7 +36,7 @@
 python --version
 ```
 
-<img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/terminal.jpg" width = 85%><br>
+<img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/terminal.jpg" width = 95%><br>
 
 
 ## **Instalación de Python: Macintosh** <img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/Macintosh.png" width = 4%>
