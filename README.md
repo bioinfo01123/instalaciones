@@ -26,9 +26,11 @@
 
 #### `Validar la instalación de Python 3.6.7`.
 
-#### **5**. Abre una terminar de windows (Presionar las teclas Windows + R al mismo tiempo).
+#### **5**. Abre una terminar de windows presionando las teclas Windows + R al mismo tiempo.
 
-#### **6**. Escribir `cmd` o `CMD` en la ventana de ejecución.
+#### **6**. Escribir `cmd` o `CMD` en la ventana de ejecución y dar click en `OK`.
+
+#### **7**. Una vez abierta la terminal escribir el siguiente comando y dar enter (mostrará la versión de Python instalada).
 
 ```bash
 python --version
@@ -42,7 +44,7 @@ python --version
 
 #### `Las computadoras Mac ya tienen instalado Python 3 por defecto, para comprobar su existencia realiza los siguientes pasos.` 
 
-#### **1**. Abrir la terminal y escribir el siguiente comando.
+#### **1**. Abrir la terminal y escribir el siguiente comando (mostrará la versión de Python instalada).
 
 ```bash
 python3 --version
