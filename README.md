@@ -74,7 +74,7 @@ pip install notebook
 
 #### `Validar la instalación de Jupyter Notebook`.
 
-#### **3**. En la misma terminal escribir el siguiente comando y dar enter (tras ejecutar el comando se abrirá el navegador predeterminado con el ambiente característico de Jupyter Notebook).<br>
+#### **3**. En la misma terminal escribir el siguiente comando y dar enter (tras ejecutar el comando se abrirá el navegador predeterminado con el ambiente interactivo de Jupyter Notebook).<br>
 
 ```bash
 jupyter notebook
