@@ -17,7 +17,7 @@
 
 #### **2**. Una vez realizada la descarga dirígete a la carpeta de la descarga y encuentra el ejecutable `python-3.6.7-amd64.exe`.<br>
 
-[Puedes ver el siguiente video para guiarte en la instalación de Python](https://youtu.be/WjLLEEaQ_RQ).<br>
+[Antes de continuar puedes ver el siguiente video para guiarte en la instalación de Python](https://youtu.be/WjLLEEaQ_RQ).<br>
 
 #### **3**. Da click derecho sobre `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
 
