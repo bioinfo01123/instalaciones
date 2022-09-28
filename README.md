@@ -62,12 +62,14 @@ python3 --version
 
 [Jupyter Notebook](https://jupyter.org/): es una aplicación web de código abierto que te permite crear y compartir documentos que contienen código, visualizaciones y texto enriquecido.
 
+[Antes de continuar puedes ver el siguiente video para guiarte en la instalación de Jupyter Notebook](https://youtu.be/JGByJivNl2g).<br>
+
 #### **1**. Una vez validada la instalación de Python abre una terminal de windows nueva (Windows + R, luego escribe cmd).
 
 #### **2**. Copia y pega el siguiente comando en la terminal y da enter para instalar Jupyter Notebook.<br>
 
 ```bash
-python -mpip install notebook
+pip install notebook
 ```
 
 
