@@ -80,8 +80,9 @@ pip install notebook
 jupyter notebook
 ```
 
+<br><br>
 
-
+## **Instalación de módulos usados en el taller**
 
 
 
