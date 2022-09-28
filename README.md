@@ -16,6 +16,9 @@
 
 #### **3**. Da click derecho sobre `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
 
+#### **4**. Te aparecerá una ventana como muestra la siguiente imagen.<br>
+<img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 60%><br>
+
 
 <br>
 <br>
@@ -23,8 +26,7 @@
 
 > - Click on **`Run`**<br>
 > 
-> - Select the option **`Add Python 3.6 to PATH`** and then **`Install Now`**<br> <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 60%><br>
-> 
+> - Select the option **`Add Python 3.6 to PATH`** and then **`Install Now`**<br> 
 > - Click on **`Close`**<br>
 > 
 #### **3**. To test your installation, open your terminal window and type:
