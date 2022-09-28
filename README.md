@@ -23,8 +23,11 @@
 - b) **Posteriormente desactivar la casilla** **`Install launcher for all users (recommended)`**<br>
 - c) **Posteriormente dar click en el botón** **`Install Now`**<br>
 - d) **Finalmente dar click en el botón** **`Close`**<br>
+
 <br>
+
 #### **5**. Validar la instalación de Python 3.6.7.
+
 ```bash
 python --version
 ```
