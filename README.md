@@ -1,5 +1,6 @@
 ## Taller de Bioinformática
 
+<br>
 
 ## **Instalación de Python** para Windows
 
