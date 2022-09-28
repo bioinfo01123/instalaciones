@@ -16,7 +16,8 @@
 
 #### **3**. Da click izquierdo al archivo `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
 
-
+<br>
+<br>
 
 > - Click on **`Run`**<br>
 > 
