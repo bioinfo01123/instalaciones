@@ -30,7 +30,7 @@
 
 #### **6**. Escribir `cmd` o `CMD` en la ventana de ejecución y dar click en `OK`.
 
-#### **7**. Una vez abierta la terminal escribir el siguiente comando y dar enter (mostrará la versión de Python instalada).
+#### **7**. Una vez abierta la terminal escribe el siguiente comando y da enter (mostrará la versión de Python instalada).
 
 ```bash
 python --version
