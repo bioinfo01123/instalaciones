@@ -86,6 +86,8 @@ jupyter notebook
 
 ## **Instalación de módulos usados en el taller** <img src="https://pypi.org/static/images/logo-small.95de8436.svg" width = 15%>
 
+[Antes de continuar puedes ver el siguiente video para guiarte en la instalación de módulos de Python](https://www.youtube.com/watch?v=bij66_Jtoqs&ab_channel=codebasics).<br>
+
 Instalación de `numpy` (los demás módulos se instalan de la misma forma).
 
 ```bash
