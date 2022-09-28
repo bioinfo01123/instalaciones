@@ -11,7 +11,7 @@
 ### `INSTALACIONES`
 
 
-## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 10%>
+## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 15%>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Descargar](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
