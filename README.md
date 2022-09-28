@@ -2,7 +2,7 @@
 
 #### `Recomendaciones`:
 #### I) `Lee cuidadosamente el programa completo del taller, revisa los requerimientos de trabajo y requisitos computacionales, debes cumplir con estos criterios (la velocidad de internet es crucial para darle fluidez al taller, puedes revisar tu velocidad de internet` [aquí](https://www.speedtest.net/es) `o` [aquí](https://fast.com/es/)`).`<br>
-#### II) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
+#### II) `Lee y sigue cuidadosamente las siguientes instrucciones de instalación para evitar errores.`<br>
 #### III) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### IV) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
 #### V) `Si tienes dudas o problemas con la instalación escríbe al siguiente correo: bioinfo01123@gmail.com.`<br><br><br>
