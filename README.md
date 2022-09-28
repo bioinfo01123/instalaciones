@@ -19,6 +19,8 @@
 #### **4**. Te aparecerá una ventana como se muestra a continuación.<br>
 <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 60%><br>
 
+> - Click on **Posteriormente activar la casilla** **`Add Python 3.6 to PATH`**<br>
+
 
 <br>
 <br>
