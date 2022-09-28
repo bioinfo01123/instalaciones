@@ -6,9 +6,9 @@
 ## **Instalación de Python**
 
 ### `Recomendaciones`: 
-#### 1. `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
-#### 2. `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
-#### 3. `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br><br><br>
+#### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
+#### II) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
+#### III) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br><br><br>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Descargar](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
@@ -22,17 +22,11 @@
 - a) **Posteriormente activar la casilla** **`Add Python 3.6 to PATH`**<br>
 - b) **Posteriormente desactivar la casilla** **`Install launcher for all users (recommended)`**<br>
 - c) **Posteriormente dar click en el botón** **`Install Now`**<br>
-
+- d) **Finalmente dar click en el botón** **`Close`**<br>
 <br>
 <br>
 
-
-> - Click on **`Run`**<br>
-> 
-> - Select the option **`Add Python 3.6 to PATH`** and then **`Install Now`**<br> 
-> - Click on **`Close`**<br>
-> 
-#### **3**. To test your installation, open your terminal window and type:
+#### **5**. Validar la instalación de Python 3.6.7.
 
 ```bash
 python --version
