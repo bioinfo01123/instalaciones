@@ -1,15 +1,15 @@
 ## Taller de Bioinformática
 
-<br>
-
-## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
-
 #### `Recomendaciones`:
 #### I) `Lee cuidadosamente el programa completo del taller, revisa los requerimientos de trabajo y requisitos computacionales, debes cumplir con estos criterios (la velocidad de internet es crucial, puedes revisarla` [aquí](https://www.speedtest.net/es) o [aquí](https://fast.com/es/)`)`.<br>
 #### II) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
 #### III) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### IV) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
 #### V) `Si tienes dudas o problemas con la instalación escríbe al siguiente correo: bioinfo01123@gmail.com.`<br><br><br>
+
+<br>
+
+## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Descargar](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
