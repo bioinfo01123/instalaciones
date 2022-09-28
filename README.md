@@ -12,9 +12,9 @@
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Descargar](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
-#### **2**. Una vez realizada la descarga dirígete a la carpeta donde se encuentra el archivo `python-3.6.7-amd64.exe`.<br>
+#### **2**. Una vez realizada la descarga dirígete a la carpeta de la descarga y encuentra el ejecutable `python-3.6.7-amd64.exe`.<br>
 
-#### **3**. Da click izquierdo al archivo `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
+#### **3**. Da click derecho sobre `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
 
 
 <br>
