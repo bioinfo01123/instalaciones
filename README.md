@@ -64,7 +64,7 @@ python3 --version
 
 #### **1**. Una vez validada la instalación de Python abre una terminal de windows nueva (Windows + R, luego escribe cmd).
 
-#### **1**. Copia y pega el siguiente comando en la terminal y da enter para ejecutar e instalar Jupyter Notebook.<br>
+#### **2**. Copia y pega el siguiente comando en la terminal y da enter para instalar Jupyter Notebook.<br>
 
 ```bash
 python -mpip install notebook
