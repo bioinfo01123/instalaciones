@@ -21,10 +21,10 @@
 #### **4**. Te aparecerá una ventana como la que se muestra a continuación.<br>
 <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 65%><br>
 
-- a) **Posteriormente activar la casilla** **`Add Python 3.6 to PATH`**<br>
-- b) **Posteriormente desactivar la casilla** **`Install launcher for all users (recommended)`**<br>
-- c) **Posteriormente dar click en el botón** **`Install Now`**<br>
-- d) **Finalmente dar click en el botón** **`Close`**<br><br>
+- a) **Activar la casilla** **`Add Python 3.6 to PATH`**<br>
+- b) **Desactivar la casilla** **`Install launcher for all users (recommended)`**<br>
+- c) **Dar click en el botón** **`Install Now`**<br>
+- d) **Dar click en el botón** **`Close`**<br><br>
 
 
 #### `Validar la instalación de Python 3.6.7`.
