@@ -82,7 +82,7 @@ jupyter notebook
 
 <br><br>
 
-## **Instalación de módulos usados en el taller**
+## **Instalación de módulos usados en el taller** <img src="https://pypi.org/static/images/logo-small.95de8436.svg" width = 15%>
 
 Instalación de `numpy` (los demás módulos se instalan de la misma forma).
 
