@@ -2,7 +2,7 @@
 
 <br>
 
-## **Instalación de Python** para Windows
+## **Instalación de Python (Windows)**
 
 #### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
@@ -38,7 +38,7 @@ python --version
 
 
 
-## **Instalación de Python** para Macintosh
+## **Instalación de Python (Macintosh)**
 
 #### `Las computadoras Mac ya tienen instalado Python 3 por defecto, para comprobar su existencia realiza los siguientes pasos.` 
 
