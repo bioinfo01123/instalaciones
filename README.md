@@ -3,14 +3,20 @@
 
 
 
-### **Instalación de Python**
+# **Instalación de Python**
 
 ### `Recomendaciones`: 
 ### 1. `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
+### 2. `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Download](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
-#### **2**. Double-click the `.exe` file.<br>
+#### **2**. Una vez realizada la descarga dirígete a la carpeta donde se encuentra el archivo `python-3.6.7-amd64.exe`.<br>
+
+#### **3**. Da click izquierdo al archivo `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
+
+
+
 > - Click on **`Run`**<br>
 > 
 > - Select the option **`Add Python 3.6 to PATH`** and then **`Install Now`**<br> <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 60%><br>
