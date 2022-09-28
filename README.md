@@ -2,7 +2,7 @@
 
 <br>
 
-## **Instalación de Python (Windows)**
+## **Instalación de Python (Windows)** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
 
 #### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
