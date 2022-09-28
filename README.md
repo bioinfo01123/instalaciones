@@ -84,7 +84,22 @@ jupyter notebook
 
 ## **Instalación de módulos usados en el taller**
 
+Se dará un ejemplo de instalación de un módulo, el proceso de instalación de los demás módulos es igual.
 
+```bash
+pip install numpy
+```
+
+### **Instalar los siguientes módulos**
+`pandas`
+`matplotlib`
+`scipy`
+`openpyxl`
+`colormap`
+`easydev`
+`xlsxwriter`
+`requests`
+`abifpy`
 
 
 
