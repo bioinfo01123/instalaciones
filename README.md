@@ -26,9 +26,9 @@
 
 #### `Validar la instalación de Python 3.6.7`.
 
-#### **5**. Abre una terminar de windows (Presionar las teclas Windows + R la mismo tiempo).
+#### **5**. Abre una terminar de windows (Presionar las teclas Windows + R al mismo tiempo).
 
-#### **6**. Escribir cmd en el .
+#### **6**. Escribir `cmd o CMD` en la ventana de ejecución.
 
 ```bash
 python --version
