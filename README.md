@@ -15,7 +15,7 @@
 
 #### **3**. Da click derecho sobre `python-3.6.7-amd64.exe` y posteriormente ejecutar como administrador.<br>
 
-#### **4**. Te aparecerá una ventana como se muestra a continuación.<br>
+#### **4**. Te aparecerá una ventana como la que se muestra a continuación.<br>
 <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 65%><br>
 
 - a) **Posteriormente activar la casilla** **`Add Python 3.6 to PATH`**<br>
