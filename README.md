@@ -3,7 +3,7 @@
 <br><br>
 
 ### `Recomendaciones importantes:`
-#### I) `Lee cuidadosamente el ` [programa completo del taller](https://raw.githubusercontent.com/bioinfo01123/taller2022/main/PROGRAMA%20TALLER%20DE%20BIOINFORM%C3%81TICA.pdf) `, revisa los requerimientos de trabajo y requisitos computacionales, debes cumplir con estos criterios. La velocidad de internet es crucial para darle fluidez al contenido del t aller, puedes revisar tu velocidad de internet` [aquí](https://www.speedtest.net/es) `o` [aquí](https://fast.com/es/)`.`<br>
+#### I) `Lee cuidadosamente el ` [programa completo del taller](https://raw.githubusercontent.com/bioinfo01123/taller2022/main/PROGRAMA%20TALLER%20DE%20BIOINFORM%C3%81TICA.pdf) `, revisa los requerimientos de trabajo y requisitos computacionales, debes cumplir con estos criterios. La velocidad de internet es crucial para darle fluidez al contenido del taller, puedes revisar tu velocidad de internet` [aquí](https://www.speedtest.net/es) `o` [aquí](https://fast.com/es/)`.`<br>
 #### II) `Lee y sigue cuidadosamente las instrucciones de instalación para evitar errores.`<br>
 #### III) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### IV) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
