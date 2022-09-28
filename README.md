@@ -38,7 +38,7 @@ python --version
 
 
 
-## **Instalación de Python (Macintosh)** <img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/Macintosh.png" width = 5%>
+## **Instalación de Python (Macintosh)** <img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/Macintosh.png" width = 4%>
 
 #### `Las computadoras Mac ya tienen instalado Python 3 por defecto, para comprobar su existencia realiza los siguientes pasos.` 
 
