@@ -20,7 +20,8 @@
 <img src="https://raw.githubusercontent.com/bioinfproject/bioinfo/master/Folder/Python_2.PNG" width = 60%><br>
 
 - a) **Posteriormente activar la casilla** **`Add Python 3.6 to PATH`**<br>
-- b) **Posteriormente dar click en el botón** **`Install Now`**<br>
+- b) **Posteriormente desactivar la casilla** **`Install launcher for all users (recommended)`**<br>
+- c) **Posteriormente dar click en el botón** **`Install Now`**<br>
 
 <br>
 <br>
