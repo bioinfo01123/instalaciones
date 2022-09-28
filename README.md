@@ -1,9 +1,11 @@
 # Instalaciones
 
 
-### **Install Python**
+### **Instalación de Python**
 
-#### **1**. Python 3.6.7 version ([Download](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
+Recomendaciones: si ya tienes una versión de Python instalada no es recomendable que continues con la instalación 
+
+#### **1**. Descarga la versión 3.6.7 de Python ([Download](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
 #### **2**. Double-click the `.exe` file.<br>
 > - Click on **`Run`**<br>
