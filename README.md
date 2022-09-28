@@ -2,7 +2,7 @@
 
 <br>
 
-## **Instalación de Python (Windows)** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
+## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
 
 #### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
@@ -38,11 +38,15 @@ python --version
 
 
 
-## **Instalación de Python (Macintosh)** <img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/Macintosh.png" width = 4%>
+## **Instalación de Python: Macintosh** <img src="https://raw.githubusercontent.com/bioinfo01123/taller2022/main/Macintosh.png" width = 4%>
 
 #### `Las computadoras Mac ya tienen instalado Python 3 por defecto, para comprobar su existencia realiza los siguientes pasos.` 
 
+#### **1**. Abrir la terminal y escribir el siguiente comando.
 
+```bash
+python3 --version
+```
 
 
 
