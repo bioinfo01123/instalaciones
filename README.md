@@ -5,7 +5,7 @@
 ## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
 
 #### `Recomendaciones`:
-#### I) `Lee cuidadosamente el programa completo del curso, revisa los requerimientos de trabajo y requisitos computacionales para el taller, debes cumplir con estos criterios para entrar al taller (la velocidad de internet es crucial, puedes ).`<br>
+#### I) `Lee cuidadosamente el programa completo del taller, revisa los requerimientos de trabajo y requisitos computacionales, debes cumplir con estos criterios (la velocidad de internet es crucial, puedes revisarla [aquí](https://www.speedtest.net/es)).`<br>
 #### II) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
 #### III) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### IV) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
