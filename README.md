@@ -28,7 +28,7 @@
 
 #### **5**. Abre una terminar de windows (Presionar las teclas Windows + R al mismo tiempo).
 
-#### **6**. Escribir `cmd o CMD` en la ventana de ejecución.
+#### **6**. Escribir `cmd` o `CMD` en la ventana de ejecución.
 
 ```bash
 python --version
