@@ -3,7 +3,7 @@
 
 
 
-## **Instalación de Python**
+## **Instalación de Python** para Windows
 
 ### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
