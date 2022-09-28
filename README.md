@@ -1,7 +1,4 @@
-# Bienvenido al Taller de Bioinformática
-## **Manejo de Datos e Información Biológica: Conociendo el Potencial de Python**
-
-
+## Taller de Bioinformática
 
 
 ## **Instalación de Python** para Windows
