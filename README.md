@@ -1,9 +1,12 @@
 # Instalaciones
 
 
+
+
 ### **Instalación de Python**
 
-Recomendaciones: si ya tienes una versión de Python instalada no es recomendable que continues con la instalación 
+### `Recomendaciones`
+#### `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Download](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
