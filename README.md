@@ -4,7 +4,7 @@
 
 ## **Instalación de Python** para Windows
 
-### `Recomendaciones`: 
+#### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
 #### II) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### III) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br><br><br>
