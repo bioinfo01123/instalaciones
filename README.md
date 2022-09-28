@@ -6,7 +6,7 @@
 ## **Instalación de Python**
 
 ### `Recomendaciones`: 
-#### 1. `Lee cuidadosamente las instrucciones.`<br>
+#### 1. `Lee detenidamente y sigue cuidadosamente las instrucciones para evitar errores.`<br>
 #### 2. `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### 3. `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br><br><br>
 
