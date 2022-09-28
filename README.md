@@ -7,7 +7,8 @@
 #### `Recomendaciones`: 
 #### I) `Lee y sigue cuidadosamente las instrucciones para evitar errores.`<br>
 #### II) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
-#### III) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br><br><br>
+#### III) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
+#### IV) `Si tienes dudas o problemas con la instalación escríbe al siguiente correo: bioinfo01123@gmail.com.`<br><br><br>
 
 #### **1**. Descarga la versión 3.6.7 de Python ([Descargar](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 
