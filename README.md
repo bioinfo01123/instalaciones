@@ -5,7 +5,7 @@
 #### II) `Lee y sigue cuidadosamente las siguientes instrucciones de instalación para evitar errores.`<br>
 #### III) `Si ya tienes una versión de Python instalada no es recomendable que continues con la instalación.`<br>
 #### IV) `Puedes revisar la presencia de Python en Panel de Control > Programas y características.`<br>
-#### V) `Si tienes dudas o problemas con la instalación escríbenos al siguiente correo: bioinfo01123@gmail.com.`<br><br><br>
+#### V) `Si tienes dudas o problemas con la instalación escríbenos al siguiente correo:` [bioinfo01123@gmail.com](bioinfo01123@gmail.com)`.`<br><br><br>
 
 
 ## **Instalación de Python: Windows** <img src="https://upload.wikimedia.org/wikipedia/sr/thumb/1/14/Windows_logo_-_2006.svg/644px-Windows_logo_-_2006.svg.png" width = 5%>
