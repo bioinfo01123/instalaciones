@@ -57,4 +57,20 @@ python3 --version
 ```
 
 
+## **Instalación de Jupyter Notebook** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width = 4%>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
