@@ -60,7 +60,7 @@ python3 --version
 
 <br>
 
-## **Instalación de Jupyter Notebook para Windows** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width = 15%>
+## **Instalación de Jupyter Notebook para Windows y Mac** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width = 15%>
 
 [Jupyter Notebook](https://jupyter.org/): es una aplicación web de código abierto que te permite crear y compartir documentos que contienen código, visualizaciones y texto enriquecido.
 
